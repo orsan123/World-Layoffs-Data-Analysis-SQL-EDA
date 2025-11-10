@@ -80,8 +80,8 @@ The dataset contains layoff information with the following columns:
 - **Salesforce**:10,090 employees laid off
 
 ### Consumer Sector Hit the Hardest
-- **Consumer**: 45,182 layoffs laid off
-- **Retail**: 43,613 layoffs laid off
+- **Consumer**: 45,182 layoffs 
+- **Retail**: 43,613 layoffs 
 - There was significant impact beyond tech sector
 
 ### Highest Layoff Locations
