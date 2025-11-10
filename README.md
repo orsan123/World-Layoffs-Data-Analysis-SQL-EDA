@@ -74,22 +74,22 @@ The dataset contains layoff information with the following columns:
 ### 🚨 Critical Insights
 
 ### Tech Giants Dominated Layoffs
-- **Amazon**: 18,150 employees
-- **Google**: 12000 employees  
-- **Meta**: 11,000 employees
-- **Salesforce**:10,090 employees
+- **Amazon**: 18,150 employees laid off
+- **Google**: 12000 employees laid off
+- **Meta**: 11,000 employees laid off
+- **Salesforce**:10,090 employees laid off
 
-### Consumer Sector Hit Hardest
-- **Consumer**: 45,182 layoffs
-- **Retail**: 43,613 layoffs
-- Significant impact beyond tech sector
+### Consumer Sector Hit the Hardest
+- **Consumer**: 45,182 layoffs laid off
+- **Retail**: 43,613 layoffs laid off
+- There was significant impact beyond tech sector
 
-### Geographic Concentration
+### Highest Layoff Locations
 - **SF Bay Area**: 125,631 layoffs
 - **Seattle**: 34,743 layoffs
 - Traditional tech hubs disproportionately affected
 
-### Temporal Peaks
+### Worst Months
 - **January 2023**: 84,714 layoffs (worst month)
 - **November 2022**: 53,451 layoffs
 - Year-start appears to be peak restructuring period
